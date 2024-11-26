@@ -110,6 +110,22 @@ work:
       - The internship was part of my Masters thesis.
       - Build a Langchain based Autonomus Agent.
       - Worked on Retrieval-augmented generation model. 
+  - position: Teaching Assistant(TA)
+    company_name: Indian Institute of Science Education and Research, Bhopal
+    company_url: https://www.iiserb.ac.in/
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: 2023-11-30
+    summary: |
+      - Teaching Assistant for the fall semester 2023 Natural Language Processing Course under Dr. Jasabanta Patro at Data Science and Engineering Department.
+  - position: Teaching Assistant(TA)
+    company_name: Indian Institute of Science Education and Research, Bhopal
+    company_url: https://www.iiserb.ac.in/
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-04-30
+    summary: |
+      - Teaching Assistant for the spring semester 2023 Data Science and Machine Learning Course under Dr. Tanmay Basu at Data Science and Engineering Department.
   - position: Data Analyst(Intern)
     company_name: Varahe Analytics
     company_url: ''
