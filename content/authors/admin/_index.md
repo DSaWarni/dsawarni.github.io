@@ -188,7 +188,7 @@ awards:
 
 ## About Me
 
-I am currently a Predoctoral Researcher in the ECE Department at IISc, under the supervision of Dr. Sundeep Chepuri, focusing on Graph Neural Networks and Geometric Deep Learning. Prior to this, I was a Predoctoral Researcher at IITD, working with Dr. Sandeep Kumar. I also completed my integrated BS-MS in Data Science and Engineering at IISER Bhopal.
+I am upcoming Predoctoral Researcher in the ECE Department at IISc, under the supervision of Dr. Sundeep Chepuri, focusing on Graph Neural Networks and Geometric Deep Learning. Prior to this, I was a Predoctoral Researcher at IITD, working with Dr. Sandeep Kumar. I also completed my integrated BS-MS in Data Science and Engineering at IISER Bhopal.
 
 I completed my Master's theses at IISER Bhopal under the guidance of Dr. Jasabanta Patro. My research has focused on Neural Machine Translation, Graph Machine Learning, Natural Language Processing, Complex Networks and Pollster Analytics.
 
