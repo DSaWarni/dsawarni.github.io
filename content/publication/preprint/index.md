@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Evaluation Cross-Layer attention in multiplex networks for link prediction."
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-10-25"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,24 +14,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Evaluation Cross-Layer attention in multiplex networks for link prediction."
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This thesis tackles the problem of link prediction in multiplex networks by using connections across different layers to boost prediction accuracy. We propose a Union Set approach to remove less relevant nodes, subgraph-level learning for testing on unseen parts of the graph, and a sequence labeling technique with attention mechanisms to capture complex patterns. These approaches improve scalability and prediction performance. Our experiments show better accuracy in predicting missing links, offering new insights for network analysis and machine learning.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
-- Large Language Models
+- Complex Networks
+- Transformers
+- Graph Neural Networks
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: ''
+url_pdf: ''
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -42,7 +44,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Multiplex Network'
   focal_point: ""
   preview_only: false
 
@@ -62,10 +64,6 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+A novel attention based framework for predicting links in a layer of a multiplex network. In this work we introduced
+two deep learning frameworks for processing the information from n-1 layers of a multiplex network to predict the
+edge between two nodes.

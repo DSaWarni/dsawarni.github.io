@@ -35,20 +35,21 @@ sections:
       title: 'Research Interest'
       subtitle: ''
       text: |-
+
         My research focuses on Graph Machine Learning, Natural Language Processing (NLP) and Geometric Deep Learning. I am especially interested in advancing Graph Machine Learning and Geometric Deep Learning to better understand complex networks and create practical frameworks. In NLP, I work on developing models that capture the structure and meaning of language, often using graph-based methods to improve representations. I am particularly excited about applying these techniques to real-world problems in Healthcare and Neuroscience, where they can provide valuable insights into neural systems and help improve patient care. My goal is to combine theory with practical applications to drive progress in understanding structured data, networks, and human health.
     design:
       columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Publications/Preprint
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 1
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -98,7 +99,7 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
-  # - block: cta-card
+  - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Build your own academic website like this
