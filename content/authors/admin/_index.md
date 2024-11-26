@@ -54,6 +54,7 @@ interests:
 education:
   - area: BS-MS in Data Science and Engineering
     institution: Indian Institute of Science Education and Research, Bhopal
+    icon: "custom/IITD"
     date_start: 2019-08-01
     date_end: 2024-07-29
     summary: |
@@ -187,4 +188,8 @@ awards:
 
 ## About Me
 
-Devesh Sharma 
+I am currently a Predoctoral Researcher in the ECE Department at IISc, under the supervision of Dr. Sundeep Chepuri, focusing on Graph Neural Networks and Geometric Deep Learning. Prior to this, I was a Predoctoral Researcher at IITD, working with Dr. Sandeep Kumar. I also completed my integrated BS-MS in Data Science and Engineering at IISER Bhopal.
+
+I completed my Master's theses at IISER Bhopal under the guidance of Dr. Jasabanta Patro. My research has focused on Neural Machine Translation, Graph Machine Learning, Natural Language Processing, Complex Networks and Pollster Analytics.
+
+I am currently looking for doctoral positions in Graph Machine Learning and related fields. 

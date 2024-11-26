@@ -32,14 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research Interest'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research focuses on Graph Machine Learning, Natural Language Processing (NLP) and Geometric Deep Learning. I am especially interested in advancing Graph Machine Learning and Geometric Deep Learning to better understand complex networks and create practical frameworks. In NLP, I work on developing models that capture the structure and meaning of language, often using graph-based methods to improve representations. I am particularly excited about applying these techniques to real-world problems in Healthcare and Neuroscience, where they can provide valuable insights into neural systems and help improve patient care. My goal is to combine theory with practical applications to drive progress in understanding structured data, networks, and human health.
     design:
       columns: '1'
   - block: collection
