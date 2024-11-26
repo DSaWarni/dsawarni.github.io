@@ -91,11 +91,19 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Pre-doctoral Research Assistant
+    company_name: Indian Institute of Science(IISc)
+    company_url: https://iisc.ac.in/
+    company_logo: ''
+    date_start: 2025-01-01
+    date_end: ''
+    summary: |
+      - Multiple research project in Graph Machine Learning and Geometric Deep Learning.
+  - position: Pre-doctoral Research Assistant
     company_name: Indian Institute of Technology(IIT), Delhi
     company_url: https://home.iitd.ac.in/
     company_logo: custom/IITD
     date_start: 2024-08-01
-    date_end: ''
+    date_end: 2024-11-28
     summary: |2-
       - Led the development of a machine translation model for a tribal language project, sponsored by the Government of India at IIT Delhi. 
       - Developed and deployed multiple versions of models for a low-resource language, achieving a CHRF score of 50 on unseen data. 
@@ -154,8 +162,8 @@ skills:
         description: ''
         percent: 100
         icon: python
-      - name: HPC, Git, Shell, Latex, MongoDB*
-        description: "* Elementary proficiency"
+      - name: HPC, Git, Shell, Latex, MongoDB
+        description: ''
         percent: 100
         icon: cube
   - name: Hobbies
