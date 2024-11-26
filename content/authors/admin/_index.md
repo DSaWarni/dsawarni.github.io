@@ -54,7 +54,7 @@ interests:
 education:
   - area: BS-MS in Data Science and Engineering
     institution: Indian Institute of Science Education and Research, Bhopal
-    icon: "custom/IITD"
+    icon: custom/IITD
     date_start: 2019-08-01
     date_end: 2024-07-29
     summary: |
@@ -93,7 +93,7 @@ work:
   - position: Pre-doctoral Research Assistant
     company_name: Indian Institute of Technology(IIT), Delhi
     company_url: https://home.iitd.ac.in/
-    company_logo: "custom/IITD"
+    company_logo: custom/IITD
     date_start: 2024-08-01
     date_end: ''
     summary: |2-
@@ -103,7 +103,7 @@ work:
   - position: Data Scientist(Intern)
     company_name: Uniphore Software Systems
     company_url: https://www.uniphore.com/
-    company_logo: "custom/uniphore"
+    company_logo: custom/uniphore
     date_start: 2023-06-01
     date_end: 2023-12-31
     summary: |
