@@ -114,7 +114,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-05-01
-    date_end: 2022-09-31
+    date_end: 2022-09-30
     summary: |
       - Worked closely with multiple product teams to design and implement a Pollster Analysis Ranking system for Indian companies.
       - Analyzed real-time survey data to provide insights for the ranking system.
