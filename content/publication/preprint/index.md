@@ -29,7 +29,7 @@ tags:
 
 featured: true
 
-links: ''
+links:
 - name: ''
   url: ''
 url_pdf: ''
