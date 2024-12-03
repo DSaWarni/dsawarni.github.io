@@ -91,11 +91,19 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Pre-doctoral Research Assistant
+    company_name: Indian Institute of Science(IISc), Banglore
+    company_url: https://iisc.ac.in/
+    company_logo: ''
+    date_start: 2024-12-05
+    date_end: ''
+    summary: |2-
+      Graph Machine Learning and Geometric Deep Learning in Higher Order Graphs.
+  - position: Pre-doctoral Research Assistant
     company_name: Indian Institute of Technology(IIT), Delhi
     company_url: https://home.iitd.ac.in/
     company_logo: custom/IITD
     date_start: 2024-08-01
-    date_end: ''
+    date_end: 2024-11-30
     summary: |2-
       - Led the development of a machine translation model for a tribal language project, sponsored by the Government of India at IIT Delhi. 
       - Developed and deployed multiple versions of models for a low-resource language, achieving a CHRF score of 50 on unseen data. 
