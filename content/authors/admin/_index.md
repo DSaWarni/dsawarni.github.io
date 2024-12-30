@@ -216,4 +216,4 @@ I am a Predoctoral Researcher in the ECE Department at IISc, under the supervisi
 
 I completed my Master's theses at IISER Bhopal under the guidance of Dr. Jasabanta Patro. My research has focused on Neural Machine Translation, Graph Machine Learning, Natural Language Processing, Complex Networks and Pollster Analytics.
 
-I am currently looking for doctoral positions in Graph Machine Learning and related fields. 
+I am currently looking for doctoral positions in Graph Machine Learning and related fields.
