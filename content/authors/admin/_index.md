@@ -106,7 +106,7 @@ work:
     date_end: 2024-11-30
     summary: |2-
       - Led the development of a machine translation model for a tribal language project, sponsored by the Government of India at IIT Delhi. 
-      - Developed and deployed multiple versions of models for a low-resource language, achieving a CHRF score of 50 on unseen data. 
+      - Developed and deployed multiple versions of models for a low-resource language.
       - Developed a Speech-to-Text (STT) module for video processing, translation, and subtitling. The module supports multiple input modalities, including audio files, videos, and text, providing high-quality translations powered by models developed in-house.
   - position: Data Scientist(Intern)
     company_name: Uniphore Software Systems
