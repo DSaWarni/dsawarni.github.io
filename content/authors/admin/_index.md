@@ -24,8 +24,8 @@ role: Pre-doctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Indian Institute of Technology, Delhi
-    url: https://home.iitd.ac.in/
+  - name: Indian Institute of Science, Bangalore
+    url: https://iisc.ac.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -97,7 +97,7 @@ work:
     date_start: 2024-12-05
     date_end: ''
     summary: |2-
-      Graph Machine Learning and Geometric Deep Learning in Higher Order Graphs.
+      - Graph Machine Learning and Geometric Deep Learning in Higher Order Graphs.
   - position: Pre-doctoral Research Assistant
     company_name: Indian Institute of Technology(IIT), Delhi
     company_url: https://home.iitd.ac.in/
