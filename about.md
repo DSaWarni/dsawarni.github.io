@@ -12,6 +12,12 @@ I completed my Master's theses at IISER Bhopal under the guidance of Dr. Jasaban
 
 I am currently looking for doctoral positions in Graph Machine Learning and related fields.
 
+## Research Interest
+
+My research focuses on Graph Machine Learning, Natural Language Processing (NLP) and Geometric Deep Learning. I am particularly interested in advancing Graph Machine Learning and Geometric Deep Learning to better understand graphical complexes and create practical frameworks. Additionally, in NLP, I have worked on developing framework that capture the structure in language, often using graph-based methods to improve representations. 
+
+My goal is to be able to apply these techniques to real-world problems especially in Healthcare, wherein it can be helpful in providing valuable insights and help decrypt patterns in biological data. I aim to combine theory with practical applications to drive progress in understanding structured data and networks.
+
 
 ## Education
 
