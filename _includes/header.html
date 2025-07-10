@@ -1,0 +1,14 @@
+<header>
+  <nav>
+    <a class="logo" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+    <ul>
+      {% for item in site.nav %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+
+    <!-- Theme toggle button after the nav links -->
+    <button id="theme-toggle" aria-label="Toggle theme"></button>
+  </nav>
+</header>

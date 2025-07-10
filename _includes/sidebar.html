@@ -1,0 +1,13 @@
+<div class="profile-card">
+  <img src="{{ '/assets/images/profile.jpg' | relative_url }}" class="profile-pic" alt="...">
+  <h2>{{ site.profile.name }}</h2>
+  <p class="role">{{ site.profile.role }}</p>
+  <!-- no org logo, just name & link -->
+  <p><a href="{{ site.profile.org.url }}">{{ site.profile.org.name }}</a></p>
+  <ul class="social">
+    <li><a href="{{ site.profile.email }}"><img src="{{ '/assets/media/icons/mail.svg' | relative_url }}" alt="Email"></a></li>
+    <li><a href="{{ site.profile.github }}"><img src="{{ '/assets/media/icons/github.svg' | relative_url }}" alt="GitHub"></a></li>
+    <li><a href="{{ site.profile.linkedin }}"><img src="{{ '/assets/media/icons/linkedin.svg' | relative_url }}" alt="LinkedIn"></a></li>
+  </ul>
+  <a href="{{ '/cv.pdf' | relative_url }}" class="download-btn" download="Devesh-Sharma-CV.pdf">Download CV</a>
+</div>

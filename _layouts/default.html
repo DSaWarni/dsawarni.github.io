@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" class="light">
+{% include head.html %}
+<body>
+  {% include header.html %}
+  <div class="container">
+    {{ content }}
+  </div>
+  {% include footer.html %}
+  <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+title: "Devesh Sharma"
+email: deveshsawarni@gmail.com
+description: "Pre-doctoral Researcher at IISc Bengaluru | Graph Machine Learning & Geometric DL"
+baseurl: ""
+url: "https://<username>.github.io"
+
+theme: null
+plugins:
+  - jekyll-feed
+
+# Main navigation
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Experience
+    url: /experience/
+  - title: Projects & Skills
+    url: /projects-skills/
+  - title: Publications
+    url: /publications/
+
+# Your profile data for the sidebar
+profile:
+  name: "Devesh Sharma"
+  role: "Pre-doctoral Researcher"
+  org: 
+    name: "Indian Institute of Science, Bengaluru"
+    url: "https://iisc.ac.in/"
+  email: "mailto:deveshsawarni@gmail.com"
+  github: "https://github.com/DSaWarni"
+  linkedin: "https://www.linkedin.com/in/devesh-sharma-6b6952204/"
