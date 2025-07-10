@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Publications
 permalink: /publications/
@@ -14,4 +14,4 @@ permalink: /publications/
 1. **Sharma, D.**, … “Title of paper,” *Conference Name*, 2024.
 2. …
 
-> _Add DOIs or links as you wish._
+> _Add DOIs or links as you wish._ -->
