@@ -18,8 +18,8 @@ nav:
     url: /experience/
   - title: Projects & Skills
     url: /projects/
-  - title: Publications
-    url: /publications/
+# - title: Publications
+#   url: /publications/
 
 # Your profile data for the sidebar
 profile:
