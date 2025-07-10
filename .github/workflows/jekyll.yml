@@ -1,4 +1,9 @@
+# .github/workflows/jekyll.yml
 name: Build & Deploy Jekyll Site
+
+# This grants the GITHUB_TOKEN rights to push contents
+permissions:
+  contents: write
 
 on:
   push:
@@ -7,14 +12,18 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          # ensure the checkout action leaves the token in .git/config
+          persist-credentials: true
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.2.8'
+          ruby-version: "3.2.8"
 
       - name: Install dependencies
         run: |
