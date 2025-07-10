@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects & Skills
-permalink: /projects-skills
+permalink: /projects
 ---
 
 ## Projects
