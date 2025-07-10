@@ -161,3 +161,34 @@ footer { text-align: center; padding: var(--gap); border-top: 1px solid rgba(0,0
   height: auto;
   object-fit: contain;
 }
+
+
+/* ===== Mobile responsiveness ===== */
+@media (max-width: 768px) {
+  /* Stack the page wrap vertically */
+  .page-wrap {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Ensure main content comes first */
+  .main-content {
+    order: 1;
+    width: 100%;
+    padding: 0; /* adjust if you had side padding */
+  }
+
+  /* Sidebar below, full-width */
+  .sidebar {
+    order: 2;
+    width: 100%;
+    margin: var(--gap) 0; /* space between content and sidebar */
+    padding: var(--gap);
+  }
+
+  /* Optionally shrink profile pic a bit on mobile */
+  .profile-pic {
+    width: 100px;
+    height: 100px;
+  }
+}
